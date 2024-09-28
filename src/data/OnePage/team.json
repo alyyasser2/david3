@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "picture": "/dark/assets/imgs/team/t1.jpg",
+    "position": "Co-Founder",
+    "name": "Matt Smith"
+  },
+  {
+    "id": 2,
+    "picture": "/dark/assets/imgs/team/t2.jpg",
+    "position": "Co-Founder",
+    "name": "Matt Smith"
+  },
+  {
+    "id": 3,
+    "picture": "/dark/assets/imgs/team/t3.jpg",
+    "position": "Co-Founder",
+    "name": "Matt Smith"
+  },
+  {
+    "id": 4,
+    "picture": "/dark/assets/imgs/team/t4.jpg",
+    "position": "Co-Founder",
+    "name": "Matt Smith"
+  },
+  {
+    "id": 5,
+    "picture": "/dark/assets/imgs/team/t3.jpg",
+    "position": "Co-Founder",
+    "name": "Matt Smith"
+  },
+  {
+    "id": 6,
+    "picture": "/dark/assets/imgs/team/t4.jpg",
+    "position": "Co-Founder",
+    "name": "Matt Smith"
+  },
+  {
+    "id": 7,
+    "picture": "/dark/assets/imgs/team/t1.jpg",
+    "position": "Co-Founder",
+    "name": "Matt Smith"
+  }
+]
